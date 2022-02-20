@@ -79,7 +79,7 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![output](1.PNG)
+![output](./1.png)
 
 ## Result:
 The code to execute mathematical website in server side has been created successfully.
